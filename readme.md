@@ -1,8 +1,8 @@
-# Hello 12D!
+# Seggszag sziaszia!
 
 ## Ez egy alcim
 
-## Ez is egy alcim
+## Baalzs
 
 *Dőlt*
 
